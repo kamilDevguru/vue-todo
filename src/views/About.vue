@@ -7,7 +7,7 @@
 
 <style scoped>
 .about {
-  padding: 16px 12px;
+  padding: 20px 12px;
   text-align: left;
 }
 </style>
